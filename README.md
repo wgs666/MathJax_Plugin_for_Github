@@ -1,6 +1,8 @@
 # MathJax Plugin for Github的下载与安装
 
-1. 谷歌应用商店在线安装
+该插件的作用：在网页显示数学公式（由Typora等工具在本地文件编写的Latex公式，上传到github等网站后，公式无法正常显示，仍然是Latex代码。在浏览器上安装本插件后，即可正常显示公式本身）
+
+**1. 谷歌应用商店在线安装**
 
    打开网页：https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima
 
@@ -28,7 +30,7 @@
 
    
 
-2. 从本仓库下载插件MathJax_Plugin_for_Github_0_2_4_0.crx到本地，离线安装
+**2. 从本仓库下载插件MathJax_Plugin_for_Github_0_2_4_0.crx到本地，离线安装**
 
    （1）下载本仓库的文件MathJax_Plugin_for_Github_0_2_4_0.crx，保存到本地磁盘。
 
